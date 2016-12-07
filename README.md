@@ -4,7 +4,7 @@
   I recently ate at Whole Foods. As usual, I finished eating, got up to toss out my garbage, and then confronted this:
 
   <p align="center">
-    <img src="https://cloud.githubusercontent.com/assets/9688260/20187772/41067a5a-a73b-11e6-95be-035bb971835f.jpg" width="700"/>
+    <img src="https://cloud.githubusercontent.com/assets/9688260/20988965/975253da-bc98-11e6-8322-5b09f323f169.jpg" width="700"/>
   </p>
 
   This time, instead of having my typical mini-anxiety attack over where to toss out each of my pieces of garbage, I got an idea: What if my phone's camera could just tell me where each of these items should go?
@@ -14,7 +14,7 @@
   Thesis: Less thinking; more blindly obeying my phone on how to sort my garbage.
 
   <p align="center">
-    <img src="https://cloud.githubusercontent.com/assets/9688260/20187772/41067a5a-a73b-11e6-95be-035bb971835f.jpg" width="700"/>
+    <img src="https://cloud.githubusercontent.com/assets/9688260/20988974/9cf1d090-bc98-11e6-8065-7be3780d1553.JPG" width="700"/>
   </p>
 
 ### Reward system
