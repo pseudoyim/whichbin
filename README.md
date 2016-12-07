@@ -22,7 +22,7 @@
 
 ## Primary Python packages used
   - [OpenCV v3.1.0](http://opencv.org/opencv-3-1.html)
-  - [Keras (TensorFlow backend)](https://keras.io/)
+  - [Keras (TensorFlow backend)](https://keras.io/) Prototype utilizes the pre-trained VGG-16 neural network.
   - [Numpy](http://www.numpy.org/)
 
 ## Code
