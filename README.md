@@ -33,4 +33,4 @@
 
 ## Future goals
   I currently have the image classification program running on my laptop. The near-term goal is to get this into a mobile app.
-  I'm also working on assessing and improving the classification performance, which will likely require additions to training image dataset.
+  I'm also working on assessing and improving the classification performance, which will likely require additions to the training image dataset.
